@@ -2,7 +2,7 @@ package biblioteca;
 
 public class Usuario {
 	
-	private int idUsuario;
+	private int id;
 	private String nome;
 	
 }
