@@ -8,4 +8,12 @@ public class Usuario {
 	private String rua;
 	private String cep;
 	
+	public void cadastrar() {
+		
+	}
+	
+	public void excluir() {
+		
+	}
+	
 }
